@@ -3,12 +3,9 @@
 
 This repository contains everything you need to make your own real-life, hard copies of every volume of _[Harry Potter and the Methods of Rationality](http://hpmor.com/)_, with ~~Lulu~~ [Blurb](http://www.blurb.com/)! 
 
-Lulu has cancelled people's orders that use this method. I recently used the resources in this guide to order the books from Blurb, another online publishing website. I thought others might find my work useful, as I had to resize pdfs and reformat everything. Most of this work is [ianstormtaylor's](https://github.com/ianstormtaylor)
+> **Warning:** Lulu has cancelled people's orders that use this method. Others recently used the resources in this guide to order the books from Blurb, another online publishing website. Do not attempt to sell this book on blurb. Not only is it illegal, but when blurb innevitably receives a copyright claim, they will no longer print these books for anyone else.
 
 Eliezer Yudkowsky, or anyone else, isn't allowed to sell the book, because it's based on J. K. Rowling's copyrighted universe of characters. But, you _can_ create your own private copy of the book with ~~Lulu~~ Blurb, a service that prints books on demand, and then order yourself a proof copy. That way, you can experience it on paper!
-
-**# WARNING #**
-**Do not attempt to sell this book on blurb. Not only is it illegal, but when blurb innevitably receives a copyright claim, they will no longer print these books for anyone else.**
 
 Want an ebook? Then you don't need this repository! Because that's [already officially supported](http://hpmor.com/).
 
@@ -34,7 +31,6 @@ The Harry Potter and the Methods of Rationality series comprises six volumes all
 Title: Harry Potter and the Methods of Rationality
 Pages: 354
 Size: 6" x 9"
-Weight: 1.50 lbs.
 Price: $5.79
 ```
 
@@ -46,7 +42,6 @@ Price: $5.79
 Title: Harry Potter and the Professor's Games
 Pages: 288 
 Size: 6" x 9"
-Weight: Unknown
 Price: $5.13 (Premium)
 ```
 
@@ -58,7 +53,6 @@ Price: $5.13 (Premium)
 Title: Harry Potter and the Shadows of Death
 Pages: 402 
 Size: 6" x 9"
-Weight: Unknown
 Price: $6.27 (Premium)
 ```
 
@@ -70,7 +64,6 @@ Price: $6.27 (Premium)
 Title: Harry Potter and the Phoenix's Call
 Pages: 396
 Size: 6" x 9"
-Weight: Unknown
 Price: $6.21
 ```
 
@@ -82,7 +75,6 @@ Price: $6.21
 Title: Harry Potter and the Last Enemy
 Pages: 234
 Size: 6" x 9"
-Weight: Unknown
 Price: $4.59
 ```
 
@@ -94,7 +86,6 @@ Price: $4.59
 Title: Harry Potter and the Philosopher's Stone
 Pages: 324
 Size: 6" x 9"
-Weight: Unknown
 Price: $5.49
 ```
 
@@ -112,7 +103,7 @@ If you have, here's the TL;DR:
 - Make sure to select "Create and Upload your PDF"
 - Upload Cover and Pages as seperate files.
 - Select soft cover and Economy B&W paper.
-- Use Blurb's free IBN number. Yes I know it sucks, but this is how blurb tracks their online books, there is no way around it.
+- Use Blurb's free IBN number.
 - **Make the book only available to yourself**.
 - Repeat for each volume.
 - Order one proof copy of each!
@@ -138,4 +129,3 @@ Have fun!
 ## Thanks
 
 Thanks to [J. K. Rowling](https://en.wikipedia.org/wiki/J._K._Rowling) for creating the entire [Harry Potter](https://en.wikipedia.org/wiki/Harry_Potter) universe, characters, etc. Thanks to [Eliezer Yudkowsky](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky) for writing [Harry Potter and the Methods of Rationality](https://en.wikipedia.org/wiki/Harry_Potter_and_the_Methods_of_Rationality). And thanks to everyone else who has done interesting things with Harry Potter and the Methods of Rationality for the inspiration!
-Thank you Ianstormtaylor, for doing all the heavy lifting on this project.
